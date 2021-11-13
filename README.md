@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 const johans = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Git, Django, FastApi, AWS, Docker],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [React, Node, Git, Django, FastApi, AWS, Docker]
 }
 ```
 
-## You can reach me 📫
+## Contact me 📫
 - [Mail](mailto:johansneirap@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/johans-neira/)
 - [GitHub](https://github.com/johansneirap)
