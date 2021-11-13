@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 const johans = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Git, Django, FastApi, AWS, Docker]
+  tools: [React, Node, Git, Django, FastApi, AWS, Docker],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
