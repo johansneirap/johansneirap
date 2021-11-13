@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h2> Hey, I'm Johans Neira!👋 </h2>
 <img align='right' src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="230" style="border-radius:50%">
-<p><em>Software Enginner at <a href="http://www.duoc.cl">DuocUC, Viña del Mar</a>👨‍🎓</br>Software Developer at <a href="https://www.evalueserve.com">Evalueserve</a>👨‍💻
+<p><em>Software Engineer at <a href="http://www.duoc.cl">DuocUC, Viña del Mar</a>👨‍🎓</br>Software Developer at <a href="https://www.evalueserve.com">Evalueserve</a>👨‍💻
 </em></p>
 
 [![Linkedin: johans-neira](https://img.shields.io/static/v1?label=&message=Johans%20Neira&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johans-neira/)](https://www.linkedin.com/in/johans-neira/)
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 const johans = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Git, Django, FastApi, AWS, Docker],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [React, Node, Git, Django, FastApi, AWS, Docker]
 }
 ```
 
