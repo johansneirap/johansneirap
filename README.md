@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 const johans = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Git, Django, FastApi, AWS, Docker]
+  tools: [React, Next, Vue, Node, Git, Django, Flask, AWS]
 }
 ```
 
