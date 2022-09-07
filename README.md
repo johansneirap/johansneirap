@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ### A little more about me 😄 
 
-```javascript
+```typescript
 const johans = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Next, Vue, Node, Git, Django, Flask, AWS]
+  tools: [React, Next, Vue, Node, Jest, Git, Django, AWS]
 }
 ```
 
