@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 const johans = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Next, Vue, Node, Jest, Git, Django, AWS]
+  tools: [React, Next, Vue, Node - Express/Fastify, Jest, Git, Django, AWS]
 }
 ```
 
@@ -36,7 +36,6 @@ const johans = {
 - [Mail](mailto:johansneirap@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/johans-neira/)
 - [GitHub](https://github.com/johansneirap)
-- [Instagram](https://instagram.com/johansen)
 
 [![@johansneirap's Holopin board](https://holopin.me/johansneirap)](https://holopin.io/@johansneirap)
 ⭐️ From [@Johans](https://github.com/johansneirap)
