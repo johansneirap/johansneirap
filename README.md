@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 </em></p>
 
 [![Linkedin: johans-neira](https://img.shields.io/static/v1?label=&message=Johans%20Neira&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johans-neira/)](https://www.linkedin.com/in/johans-neira/)
-[![GitHub Johans](https://img.shields.io/github/followers/johansneirap?label=Follow%20&style=social)](https://github.com/johansneirap)
 
 
 ### A little more about me 😄 
